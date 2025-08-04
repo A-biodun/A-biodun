@@ -1,16 +1,34 @@
-## Hi there 👋
+### 👋 Hello, I’m Abiodun  
+**Cybersecurity Analyst | Threat Hunter | Blue Team Enthusiast**
 
-<!--
-**A-biodun/A-biodun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about defending digital infrastructure, diving deep into SOC operations, and turning threat intelligence into actionable defense strategies.  
+Whether it’s fine-tuning detection rules, automating response workflows, or exploring adversary TTPs, I’m always sharpening my blade.
 
-Here are some ideas to get you started:
+- 🔭 **Currently exploring**: SIEM analytics, Wazuh integration, and incident response playbooks  
+- 🛠️ **Tools I use**: Splunk, Wireshark, Metasploit, Suricata, Kali Linux  
+- 🌱 **Always learning**: Cloud security, MITRE ATT&CK, threat modeling, SOC Analysis
+- 📫 **Let’s connect**: [LinkedIn](https://https://linkedin.com/in/abiodun-oni-/) | [Email](mailto:bdiononit@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+![Abiodun's GitHub Stats](https://github-readme-stats.vercel.app/api?A-biodun=A-biodun&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?A-biodun=A-biodun&layout=compact&theme=tokyonight)
+
+---
+
+### 📈 GitHub Contribution Graph
+
+[![Abiodun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?A-biodun=A-biodun&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🎉 Fun Fact
+
+🚀 Did you know? The first computer virus, called **Creeper**, was created in the 1970s — it displayed the message: *“I’m the creeper, catch me if you can!”*  
+I’m here to make sure creepers don’t stand a chance today. 😉
+
+---
+
