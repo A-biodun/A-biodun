@@ -7,7 +7,7 @@ Whether it’s fine-tuning detection rules, automating response workflows, or ex
 - 🔭 **Currently exploring**: SIEM analytics, Wazuh integration, and incident response playbooks  
 - 🛠️ **Tools I use**: Splunk, Wireshark, Metasploit, Suricata, Kali Linux  
 - 🌱 **Always learning**: Cloud security, MITRE ATT&CK, threat modeling, SOC Analysis
-- 📫 **Let’s connect**: [LinkedIn](https://https://linkedin.com/in/abiodun-oni-/) | [Email](mailto:bdiononit@gmail.com)
+- 📫 **Let’s connect**: [LinkedIn](https://linkedin.com/in/abiodun-oni-/) | [Email](mailto:bdiononit@gmail.com)
 
 ---
 
