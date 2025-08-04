@@ -11,14 +11,6 @@ Whether it’s fine-tuning detection rules, automating response workflows, or ex
 
 ---
 
-### 📊 GitHub Stats
-
-![Abiodun's GitHub Stats](https://github-readme-stats.vercel.app/api?A-biodun=A-biodun&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?A-biodun=A-biodun&layout=compact&theme=tokyonight)
-
----
-
 ### 📈 GitHub Contribution Graph
 
 [![Abiodun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?A-biodun=A-biodun&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
