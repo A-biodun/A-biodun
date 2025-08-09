@@ -13,7 +13,7 @@ Whether it’s fine-tuning detection rules, automating response workflows, or ex
 
 ### 📈 GitHub Contribution Graph
 
-[![Abiodun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?A-biodun=A-biodun&theme=tokyo-night)](https://github.com/A-biodun/github-readme-activity-graph)
+[![Abiodun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?A-biodun=A-biodun&theme=tokyo-night)](https://github.com/abiodun/github-readme-activity-graph)
 
 ---
 
