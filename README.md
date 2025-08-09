@@ -1,5 +1,3 @@
-![Abiodun Cybersecurity Banner](./abiodun-banner.png)
-
 ### 👋 Hello, I’m Abiodun  
 **Cybersecurity Analyst | Threat Hunter | Blue Team Enthusiast**
 
